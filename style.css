@@ -1,22 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Montserrat:700,400);
-*, *:before, *:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-body {
-  margin: 1em 2em;
-  line-height: 1.5;
-  background-color: #EAEAEA;
-  color: #001331;
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-}
-
-p {
-  max-width: 40em;
-}
 
 .tooltip {
   position: relative;
